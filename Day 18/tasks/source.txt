@@ -1,0 +1,2 @@
+this is the source
+all contents will be copied to destination
